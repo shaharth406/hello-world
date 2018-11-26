@@ -1,3 +1,2 @@
 # hello-world
-hi..i am arth shah.
-
+just a repository
